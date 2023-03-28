@@ -1,0 +1,26 @@
+name: Update Railway
+run-name: railway
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+env:
+  TECHTRAIN_API_URL: ${{secrets.TECHTRAIN_API_URL}}
+jobs:
+  update-railway:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: npm install
+        run: npm install
+      - name: change branch
+        run: |
+          git switch main
+          git pull origin main
+      - name: Update Railway
+        run: sh scripts/update-stations.sh "${{github.event.pull_request.title}}"
