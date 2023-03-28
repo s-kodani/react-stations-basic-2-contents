@@ -1,0 +1,10 @@
+stationId: 164
+title: リストの切り替えをキーボード操作でできるようにしよう
+confirmation_method: meeting
+design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1
+skill_id: 28
+abilities:
+  - 52
+railway_station_clear_conditions:
+  - id: 299
+    contents: リストの切り替えをキーボード操作でできる
