@@ -7,4 +7,4 @@ abilities:
   - 52
 railway_station_clear_conditions:
   - id: 299
-    contents: リストの切り替えをキーボード操作でできる
+    contents: リストの切り替えをキーボード操作でできること
