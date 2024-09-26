@@ -7,4 +7,4 @@ abilities:
   - 80
 railway_station_clear_conditions:
   - id: 292
-    contents: React, React-router(予定)のバージョンが上がっている
+    contents: React、React-router（予定）のバージョンが上がっていること
