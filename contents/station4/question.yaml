@@ -10,8 +10,8 @@ abilities:
   - 69
 railway_station_clear_conditions:
   - id: 296
-    contents: タスクに期限日時の設定・編集ができる
+    contents: タスクに期限日時の設定・編集ができること
   - id: 297
-    contents: タスク表示に期限日時も一緒に表示されている
+    contents: タスク表示に期限日時も一緒に表示されていること
   - id: 298
-    contents: 期限日時とは別に残り日時を表示されている
+    contents: 期限日時とは別に残り日時が表示されていること
