@@ -1,5 +1,5 @@
 stationId: 162
-title: SASSを導入しよう
+title: Sass を導入しよう
 confirmation_method: meeting
 design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1
 skill_id: 28
@@ -7,4 +7,4 @@ abilities:
   - 86
 railway_station_clear_conditions:
   - id: 295
-    contents: スタイルがSASS(SCSS記法)で書かれている
+    contents: スタイルが Sass（SCSS 記法）で書かれていること
