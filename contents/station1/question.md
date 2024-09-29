@@ -1,6 +1,6 @@
 # Railway に取り組むための準備
 
-この Railway は、各 Station のクリア判定をメンターとの面談により行います。（3 Station まとめて行うことが可能です。）
+この Railway は、各 Station のクリア判定をメンターとの面談により行います。（複数 Station まとめて行うことが可能です。）
 Railway 準備編内にある、「TechTrain へようこそ」の資料中の [メンターとの面談を活用しよう](https://docs.google.com/presentation/d/1o7pMnYO5hZSAdNwNG93iuMV7GxGFC9Y8OaHxTxctIQ8/edit#slide=id.g2cf696b2606_0_171) ページをよく読んでから面談に挑んでください。
 ポイントとしては下記です。
 1. 自分が書いたコードの説明をできるようにしておく。
