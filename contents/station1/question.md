@@ -6,6 +6,7 @@ Railway 準備編内にある、「TechTrain へようこそ」の資料中の [
 1. 自分が書いたコードの説明をできるようにしておく。
 2. その問題のことだけでなく、周辺知識の質問も準備しておく。
 3. より深く理解するための学習方法を聞けるようにしておく。
+
 もちろん他にもありますが上記のような準備をして面談に臨むと、クリア判定面談がより有意義な時間になると思いますので、
 書いたコードの言語化と、気になることを質問する準備をしておきましょう。
 
@@ -16,8 +17,8 @@ Railway 準備編内にある、「TechTrain へようこそ」の資料中の [
 また、バージョンアップした際にプログラムの記述法が変わったりして動かない部分がでてきますので、
 エラーをよく読み、正しく実装していきましょう。
 
-- APIのBase URL: qvg1o8w2ef.execute-api.ap-northeast-1.amazonaws.com
-- APIドキュメント URL: https://app.swaggerhub.com/apis-docs/INFO_3/TODOApplication/1.0.0
+- API の Base URL：qvg1o8w2ef.execute-api.ap-northeast-1.amazonaws.com
+- API ドキュメント URL：https://app.swaggerhub.com/apis-docs/INFO_3/TODOApplication/1.0.0
 
 # 確認テスト
 
