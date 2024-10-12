@@ -17,8 +17,8 @@ Railway 準備編内にある、「TechTrain へようこそ」の資料中の [
 また、バージョンアップした際にプログラムの記述法が変わったりして動かない部分がでてきますので、
 エラーをよく読み、正しく実装していきましょう。
 
+- API 仕様書：[TechTrain Railway TODOアプリ API](https://app.swaggerhub.com/apis-docs/INFO_3/TODOApplication/1.0.0)
 - API の Base URL：railway.todo.techtrain.dev 
-- API ドキュメント URL：https://app.swaggerhub.com/apis-docs/INFO_3/TODOApplication/1.0.0
 
 # 確認テスト
 
