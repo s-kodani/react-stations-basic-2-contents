@@ -11,6 +11,7 @@ Railway 準備編内にある、「TechTrain へようこそ」の資料中の [
 書いたコードの言語化と、気になることを質問する準備をしておきましょう。
 
 # 問題
+あなたは手始めにライブラリのバージョンアップから手をつけることにしました……
 
 この Railway で使用するテンプレートリポジトリは、React などのライブラリが古いバージョン（v18）になっています。
 ライブラリのバージョンアップをし、React v19 の環境で動くものに更新しましょう。
@@ -21,7 +22,6 @@ Railway 準備編内にある、「TechTrain へようこそ」の資料中の [
 - API の Base URL：railway.todo.techtrain.dev 
 
 # 確認テスト
-
 1. [railway-todo-app](https://github.com/TechBowl-japan/railway-todo-app) を Fork し、Fork したリポジトリを Clone する。
 2. Clone したフォルダを VSCode で開く。
 3. VSCode のターミナルを開き、yarn install を実行する。
