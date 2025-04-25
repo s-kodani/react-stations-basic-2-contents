@@ -1,10 +1,5 @@
-stationId: 164
-title: リストの切り替えをキーボード操作でできるようにしよう
-confirmation_method: meeting
-design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1
-skill_id: 28
-abilities:
-  - 52
-railway_station_clear_conditions:
-  - id: 299
-    contents: リストの切り替えをキーボード操作でできること
+# タスクに期限を設定できるようにしよう
+
+1. タスクに期限日時の設定・編集ができること
+2. タスク表示に期限日時も一緒に表示されていること
+3. 期限日時とは別に残り日時が表示されていること
